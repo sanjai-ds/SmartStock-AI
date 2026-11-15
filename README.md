@@ -1,5 +1,5 @@
 # SmartStock-AI
-### AI-Based Demand Forecasting and Intelligent Inventory Decision Support System
+### SmartStock-AI: Retail Demand Forecasting and Inventory Decision Support System
 
 **SmartStock-AI** is a deep learning-based demand forecasting and inventory decision-support system designed to help identify future product demand, monitor stockout risks and support inventory replenishment decisions.
 
