@@ -103,25 +103,32 @@ The following are the reported test results:
 The project includes an interactive dashboard developed using Streamlit.
 
 ### Dashboard Overview
+<img width="1891" height="912" alt="Dashboard_overview" src="https://github.com/user-attachments/assets/73b639f2-b0dd-4da4-91e5-14608a16ff6c" />
 
 
 ### Priority Products
-![Priority Products](screenshots/priority_products.png)
+<img width="1380" height="600" alt="Priority_products" src="https://github.com/user-attachments/assets/e121c94d-9b1a-406d-8cf8-bba10d1eeabe" />
+
 
 ### Demand Forecasting
-![Demand Forecasting](screenshots/demand_forecasting.png)
+<img width="1433" height="637" alt="Demand_forecasting" src="https://github.com/user-attachments/assets/2a70583f-c17c-4ba0-b33d-7c1e2beb051a" />
+
 
 ### Products with Highest Predicted Demand
-![Top Demand Products](screenshots/top_demand_products.png)
+<img width="1307" height="632" alt="Top_demand_products" src="https://github.com/user-attachments/assets/de96c008-a139-4b15-a1a3-e37eb846a931" />
+
 
 ### Model Evaluation and Feature Importance
-![Model Evaluation](screenshots/model_evaluation.png)
+<img width="1416" height="902" alt="Model_evaluation" src="https://github.com/user-attachments/assets/fa0c3aa4-dba7-4f8b-9325-fdd1d4718686" />
+
 
 ### Inventory Monitoring
-![Inventory Records](screenshots/inventory_records.png)
+<img width="1352" height="591" alt="Inventory_records" src="https://github.com/user-attachments/assets/014f063b-75f4-4692-94a2-d23d8fba239c" />
+
 
 ### Replenishment Recommendations
-![Replenishment Queue](screenshots/replenishment_queue.png)
+<img width="1372" height="615" alt="Replenishment_queue" src="https://github.com/user-attachments/assets/8c86a702-f07c-4845-b724-98fb29cd645b" />
+
 
 ## 7. Technologies Used
 
@@ -223,4 +230,3 @@ The project brings together data preprocessing, feature engineering, model devel
 
 ---
 
-**SmartStock-AI | Smarter Demand Forecasting. Better Inventory Decisions.**
